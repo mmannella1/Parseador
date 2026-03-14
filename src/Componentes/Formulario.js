@@ -209,6 +209,7 @@ const buscarDato = e => {
                    <option value="|">|</option>
                    <option value=";">;</option>
                    <option value=",">,</option>
+                   <option value="&">&amp;</option>
              
             
                </Select>
