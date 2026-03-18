@@ -184,7 +184,7 @@ const buscarDato = e => {
 
     return (
         <Fragment>
-            <ParrafoTop>Construido Año 2020</ParrafoTop>
+            <ParrafoTop>Actualizado en el 2026</ParrafoTop>
              <form onSubmit={_handleSubmit}>
                <div>
                <Header titulo="Parseador de tramas"/>
